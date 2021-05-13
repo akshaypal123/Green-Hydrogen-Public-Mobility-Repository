@@ -3,9 +3,9 @@ This is the code repository for the Green Hydrogen Public Mobility 3YP Project. 
 
 A description for each piece of code included in this repository is given below:\
 Section 1:\
-. No code is provided in this section
+. No code is provided in this section\
 Section 2:\
-. No code is provided in this section
+. No code is provided in this section\
 Section 3:\
 topography_model.py - This code provides a topography map with Oxford Park and Ride routes.\
 refrigeration_model.py - This code compares refuelling times for refrigerated and non-refrigerated systems.\
@@ -20,4 +20,4 @@ Section 7:\
 Section 8:\
 \
 Section 9:\
-. No code is provided in this section
+. No code is provided in this section\

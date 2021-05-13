@@ -13,7 +13,12 @@ Section 4:\
 route-modelling-corrected.py - This code provides an estimate of the distance travelled and the diesel fuel consumption of the current bus network. It also provides an estimate of the hydrogen demand and the carbon dioxide emissions of the current bus network.\
 Section 5:\
 Section 6:\
+Electrolyser Model v3.ipynb - This code simulates the smart electrolyser-battery system. It shows the battery SOC, grid demand, solar export and daily hydrogen production throughout the year. It also shows system component states during the longest and shortest day. \
+Electrolyser Optimiser v3.1.ipynb - This code iterates Electrolyser Model v3 with different system component parameters. \
+HeatMapData.csv - data showing OPEX for varying solar farm sizes and battery sizes.\
+Heatmap.ipynb - This code converts the data into a heatmap. \
 solar model.ipynb - This code shows the output of pv systems for Oxford irradiance.\
+
 Section 7:\
  plant_location_model.py - This code optimises the location for the hydrogen production plant.\
  storage model.ipynb - This code models the hydrogen storage throughout the year.\

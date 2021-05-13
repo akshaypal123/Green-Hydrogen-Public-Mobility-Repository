@@ -25,4 +25,4 @@ Section 7:\
 Section 8:\
 \
 Section 9:\
-. No code is provided in this section\
+. No code is provided in this section

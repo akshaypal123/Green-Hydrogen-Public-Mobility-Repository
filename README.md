@@ -10,7 +10,7 @@ Section 3:\
 topography_model.py - This code provides a topography map with Oxford Park and Ride routes.\
 refrigeration_model.py - This code compares refuelling times for refrigerated and non-refrigerated systems.\
 Section 4:\
-route-modelling-corrected.py - This code provides an estimate of the distance travelled and the diesel fuel consumption of the current bust network. It also provides an estimate of the hydrogen demand and the carbon dioxide emissions of the current bus network.\
+route-modelling-corrected.py - This code provides an estimate of the distance travelled and the diesel fuel consumption of the current bus network. It also provides an estimate of the hydrogen demand and the carbon dioxide emissions of the current bus network.\
 Section 5:\
 Section 6:\
 solar model.ipynb - This code shows the output of pv systems for Oxford irradiance.\

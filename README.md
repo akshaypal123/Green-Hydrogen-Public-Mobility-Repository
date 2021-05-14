@@ -19,7 +19,6 @@ Electrolyser Optimiser v3.1.ipynb - This code iterates Electrolyser Model v3 wit
 HeatMapData.csv - data showing OPEX for varying solar farm sizes and battery sizes.\
 Heatmap.ipynb - This code converts the data into a heatmap. \
 solar model.ipynb - This code shows the output of pv systems for Oxford irradiance.\
-
 Section 7:\
  plant_location_model.py - This code optimises the location for the hydrogen production plant.\
  storage model.ipynb - This code models the hydrogen storage throughout the year.\

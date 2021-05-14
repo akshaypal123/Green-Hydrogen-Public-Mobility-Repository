@@ -23,6 +23,6 @@ Section 7:\
 . plant_location_model.py - This code optimises the location for the hydrogen production plant.\
 . storage model.ipynb - This code models the hydrogen storage throughout the year.\
 Section 8:\
-. Project-Finances.xlsx - This excel sheet shows finances for transition expenditure, depreciation of hydrogen bus and cumulative cash flow.
+. Project-Finances.xlsx - This excel sheet shows finances for transition expenditure, depreciation of hydrogen bus and cumulative cash flow. \
 Section 9:\
 . No code is provided in this section

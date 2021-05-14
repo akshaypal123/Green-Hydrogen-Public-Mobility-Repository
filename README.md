@@ -9,7 +9,7 @@ Section 2:\
 Section 3:\
 . topography_model.py - This code provides a topography map with Oxford Park and Ride routes.\
 . refrigeration_model.py - This code compares refuelling times for refrigerated and non-refrigerated systems.\
-. regenerative_model.py - This code computes how much a regenerative braking system can save in Oxford Park and Ride routes. The code outputs the energy saved as well as the amount this energy represents in kg of hydrogen.
+. regenerative_model.py - This code computes how much a regenerative braking system can save in Oxford Park and Ride routes. The code outputs the energy saved as well as the amount this energy represents in kg of hydrogen. \
 Section 4:\
 route-modelling-corrected.py - This code provides an estimate of the distance travelled and the diesel fuel consumption of the current bus network. It also provides an estimate of the hydrogen demand and the carbon dioxide emissions of the current bus network.\
 Section 5:\
